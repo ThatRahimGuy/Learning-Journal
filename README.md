@@ -18,7 +18,6 @@ Whilst working on the Jump function I used force to make it work and Paul sugges
 Camera issue was fixed by putting the player model under a class in the hierachy section.
 # 05/11/24
 Today I need to fix the cinemachine program to follow the character before moving onto character animations. Currently the camera still functions like at the start of the prototype where its stuck in place so I need to figure out how to make the camera follow the character.
-# Update One
+# Update
 Paul helped me fix the camera so that it follows the player however, it has some issues where the character & game start to shake the more I move which I believe could be due to the speed of the character messing with the camera. For now I will put this problem at a momentary pause as I focus on other things such as the character animations.
-# Update Two
 
