@@ -20,4 +20,5 @@ Camera issue was fixed by putting the player model under a class in the hierachy
 Today I need to fix the cinemachine program to follow the character before moving onto character animations. Currently the camera still functions like at the start of the prototype where its stuck in place so I need to figure out how to make the camera follow the character.
 # Update
 Paul helped me fix the camera so that it follows the player however, it has some issues where the character & game start to shake the more I move which I believe could be due to the speed of the character messing with the camera. For now I will put this problem at a momentary pause as I focus on other things such as the character animations.
-
+# 12/11/24
+Currently working on the character animation still, making progress on it but things are moving a bit more slower than I like. I'm focus on making the prototype work first before I complete the character animation tutorial as its pointless if it doesn't work. Hopefully this will function before next week's lesson.
