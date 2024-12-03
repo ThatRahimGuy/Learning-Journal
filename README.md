@@ -22,4 +22,5 @@ Today I need to fix the cinemachine program to follow the character before movin
 Paul helped me fix the camera so that it follows the player however, it has some issues where the character & game start to shake the more I move which I believe could be due to the speed of the character messing with the camera. For now I will put this problem at a momentary pause as I focus on other things such as the character animations.
 # 12/11/24
 Currently working on the character animation still, making progress on it but things are moving a bit more slower than I like. I'm focus on making the prototype work first before I complete the character animation tutorial as its pointless if it doesn't work. Hopefully this will function before next week's lesson.
-#
+# 03/12/24
+In the past week I've started my prototype with that decided to make the decision to remove the character animations tutorial. After trying to get it to work I decided that one, while I maybe able to do something like that in Unreal Engine I do not have the brains to pull something like that in Unity. Not to mention in would slow me down in being able to make the prototype and the tutorials. Currently I have finished the player movement script and on track to finish the first tutorial and hopefully next week I'll be able to get started on the second tutorial for the player camera.
