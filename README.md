@@ -38,3 +38,5 @@ Paul helped me fix the issue which was a player tag issue. Initially we thought 
 I have completed the main menu so that it when you press play it enters in the level and as soon as its finishes it circles back to the main menu. So now that I have the scripts finished I will start working on the tutorials to have them ready for the due date.
 # 10/01/2025
 It's the day of submission I have around two hours to do the tutorials & record the video but I believe I'll get it done in time. Overall, the experience has been great & even though my ideas for the prototype shifted such as ideas like character animation not making it into the final submission, it was nice to getting accustomed to how unity works and it will defintely help when I start to work on the game project for year 3.
+## Final Update
+Finished the tutorials submitting about 20 mins late but everything is finally done. Tutorials are very scuffed due to my poor time management but everything is finally done.
